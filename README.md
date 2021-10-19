@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://media.discordapp.net/attachments/767435333875793930/898295621465821194/A.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Cu."> <strong>Habilidades: <em>HTML, CSS, JavaScript, EJS, PUG, Python & Node.js.</em></strong>
+  <img src="https://media.discordapp.net/attachments/767435333875793930/898295621465821194/A.png" min-width="40px" max-width="40px" width="40px" align="center" alt="Cu."> <strong>Habilidades: <em>HTML, CSS, JavaScript, EJS, PUG, Python, C# & Node.js.</em></strong>
 </p>
 
 <p align="left">
